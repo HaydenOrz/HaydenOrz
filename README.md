@@ -12,7 +12,7 @@
 
 - Created [dt-form-renderer](https://github.com/DTStack/dt-form-renderer), it's a configurable form renderer.
 - Working on a Browser-Side SQL Editor, you can preview it [here](https://dtstack.github.io/monaco-sql-languages/).
-- Maintaining [dt-sql-parser](https://github.com/DTStack/dt-sql-parser), it's a SQL parser built with Antlr4 and TypeScrit, learn more about it .
+- Maintaining [dt-sql-parser](https://github.com/DTStack/dt-sql-parser), it's a SQL parser built with Antlr4 and TypeScrit.
 - Learning Python and exploring AI applications...
 
 ### 📖 &nbsp; Tech Stack
