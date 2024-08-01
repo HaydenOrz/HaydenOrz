@@ -17,16 +17,17 @@
 <code><img alt="Static Badge" src="https://img.shields.io/badge/Antlr4-%23dc4735?style=for-the-badge"></code>
 <code><img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23f6e283&label=learning"></code>
 
+### 🏠 &nbsp; Some Posts
+
+- [Homepage on the JueJin website](https://juejin.cn/user/676948315746455/posts)
+- [Some notes on github](https://github.com/HaydenOrz/HaydenOrz)
+
 ### ✨ &nbsp; Some stuff
 
 - Created [dt-form-renderer](https://github.com/DTStack/dt-form-renderer), it's a configurable form renderer.
 - Working on a Browser-Side SQL Editor, you can preview it [here](https://dtstack.github.io/monaco-sql-languages/).
 - Maintaining [dt-sql-parser](https://github.com/DTStack/dt-sql-parser), it's a SQL parser built with Antlr4 and TypeScript.
 - Learning Python and exploring AI applications...
-
-### 🏠 &nbsp; Some Posts
-
-- [Homepage on the JueJin website](https://juejin.cn/user/676948315746455/posts)
 
 ### 📊 &nbsp; Stats
 
