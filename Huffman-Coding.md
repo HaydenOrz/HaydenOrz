@@ -54,12 +54,12 @@
 
 <details>
 <summary>构建过程图</summary>
-<img src="images/build-huffman-tree.png"/>
+<img src="images/build-huffman-tree.svg"/>
 </details>
 
 最终形成的树就是哈夫曼树，然后将每个节点左边的边设置为 0，右边的边设置为 1。
 
-<img src="images/huffman-coding-tree.png"/>
+<img src="images/huffman-coding-tree.svg"/>
 
 ### 编码和解码
 
