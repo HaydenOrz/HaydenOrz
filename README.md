@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 
-<p align="center"> A <strong>Front-End developer</strong> from China, currently working on DTStack, striving to become an excellent engineer. </p>
+<p align="center"> A <strong>Front-End developer</strong> from China, currently working on ByteDance, striving to become an excellent engineer. </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=2000&color=4994EC&background=4476C01C&center=true&vCenter=true&width=450&height=60&lines=0+error(s)%2C+0+warning(s)" alt="Typing SVG" />
